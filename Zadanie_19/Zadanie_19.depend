@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511732772 source:c:\users\hanna\desktop\hania\nauka\codeblocks\zadanie_19\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

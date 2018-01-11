@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510040266 source:c:\users\hanna\desktop\hania\nauka\codeblocks\zadanie_10\main.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+
